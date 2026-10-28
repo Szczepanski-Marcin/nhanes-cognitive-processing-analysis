@@ -92,6 +92,28 @@ Education coefficients are relative to the 9th–11th grade reference category. 
 
 All explanatory variables in the primary model were statistically associated with the outcome at p < 0.001.
 
+## Descriptive Results
+
+The following plots show differences in cognitive processing test scores across age, education, and stroke-history groups. They are unweighted descriptive analyses; the regression models account for the NHANES survey design.
+
+### Cognitive Processing Scores by Age
+
+![Cognitive processing scores by age](age_cognitive_score.png)
+
+Scores tended to be lower in older age groups.
+
+### Cognitive Processing Scores by Education
+
+![Cognitive processing scores by education](education_level_score.png)
+
+Mean scores differed across education groups, with higher scores observed among participants with higher educational attainment.
+
+### Cognitive Processing Scores by Stroke History
+
+![Cognitive processing scores by stroke history](stroke_history_score.png)
+
+Participants reporting a history of stroke had lower mean scores than participants reporting no history of stroke.
+
 ## Supplementary Analysis: Age-by-Education Interaction
 
 A supplementary survey-weighted model examined whether the association between age and DSST performance differed across education groups.
